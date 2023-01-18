@@ -1,6 +1,17 @@
-- 👋 Hi, I’m @William-Nogueira
-- 👀 I’m interested in - Front-End Development
-- 🌱 I’m currently learning - Javascript
-- 💞️ I’m looking to collaborate on - Entry level projects
-- 📫 How to reach me - wdsn.dev@gmail.com
+<h2>Olá! Sou William Nogueira 👋</h2> 
+
+💻 Meu GitHub contém projetos e exercícios relacionados à minha jornada de aprendizado em Desenvolvimento Front-End. 
+
+🎨 Como iniciante, estou constantemente aprendendo e experimentando novas tecnologias, portanto meus repositórios serão sempre atualizados regularmente com novos projetos.
+
+<h3>Skills</h3>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Javascript Básico</li>
+</ul>
+
+**Você pode me encontrar em:**
+
+[📧 LinkedIn](https://www.linkedin.com/in/william-nogueira-dev/)
 
