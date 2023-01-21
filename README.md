@@ -14,4 +14,7 @@
 **Você pode me encontrar em:**
 
 [📧 LinkedIn](https://www.linkedin.com/in/william-nogueira-dev/)
-
+<br>
+<br>
+<br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=William-Nogueira&theme=elegant)](https://git.io/streak-stats)
