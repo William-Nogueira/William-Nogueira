@@ -17,4 +17,4 @@
 <br>
 <br>
 <br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=William-Nogueira&theme=elegant)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=William-Nogueira&theme=github-dark-blue)](https://git.io/streak-stats)
