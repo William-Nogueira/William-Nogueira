@@ -8,7 +8,8 @@
 <ul>
   <li>HTML</li>
   <li>CSS</li>
-  <li>Javascript Básico</li>
+  <li>Javascript</li>
+  <li>React</li>
 </ul>
 
 **Você pode me encontrar em:**
