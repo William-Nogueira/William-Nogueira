@@ -12,6 +12,13 @@
   <li>React</li>
 </ul>
 
+<h3>Aprendendo</h3>
+<ul>
+  <li>Java</li>
+  <li>Spring</li>
+  <li>Next.js</li>
+</ul>
+
 **Você pode me encontrar em:**
 
 [📧 LinkedIn](https://www.linkedin.com/in/william-nogueira-dev/)
