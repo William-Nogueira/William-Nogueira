@@ -9,14 +9,15 @@
   <li>HTML</li>
   <li>CSS</li>
   <li>Javascript</li>
+  <li>Java</li>
   <li>React</li>
 </ul>
 
 <h3>Aprendendo</h3>
 <ul>
-  <li>Java</li>
+  <li>Angular</li>
   <li>Spring</li>
-  <li>Next.js</li>
+  <li>SQL</li>
 </ul>
 
 **Você pode me encontrar em:**
