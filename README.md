@@ -1,6 +1,6 @@
 <h2>Olá! Sou William Nogueira 👋</h2> 
 
-💻 Meu GitHub contém projetos e exercícios relacionados à minha jornada de aprendizado em Desenvolvimento Full-End. 
+💻 Meu GitHub contém projetos e exercícios relacionados à minha jornada de aprendizado em Desenvolvimento Full-Stack. 
 
 🎨 Como iniciante, estou constantemente aprendendo e experimentando novas tecnologias, portanto meus repositórios serão sempre atualizados regularmente com novos projetos.
 
@@ -10,7 +10,6 @@
   <li>CSS</li>
   <li>Javascript</li>
   <li>Java</li>
-  <li>React</li>
 </ul>
 
 <h3>Aprendendo</h3>
