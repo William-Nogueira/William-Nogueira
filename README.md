@@ -28,7 +28,7 @@ Desenvolvedor full-stack com foco em Angular e Spring. Estudante de Análise e D
 <p align="center"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="50" height="50"/>  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="50" height="50"/>  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" title="Angular" width="50" height="50"/> 
+    <img src="https://static-00.iconduck.com/assets.00/angular-icon-1931x2048-bef1f3lm.png" alt="Angular" title="Angular" width="45" height="50"/> 
  </p>
 </td>
 <td valign="top" width="220px">
