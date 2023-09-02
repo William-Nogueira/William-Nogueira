@@ -44,11 +44,13 @@ Desenvolvedor full-stack com foco em Angular e Spring. Estudante de Análise e D
   <p align="center"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" title="VSCode" width="50" height="50"/>
    <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="Eclipse" title="Eclipse" width="50" height="50"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="50" height="50"/>
   </p>
 </td>
 </tr></table>
 
 ### Blog posts 🏷
+- <a href="https://dev.to/williamnogueira/comparing-rdbms-mysql-vs-postgresql-5515" target="_blank">Comparing Database Management Systems: MySQL vs PostgreSQL</a>
 - <a href="https://dev.to/williamnogueira/the-problem-of-bloat-in-web-development-do-we-really-need-front-end-frameworks-14ma" target="_blank">The Problem of Bloat in Web Development: Do We Really Need Front-End Frameworks?</a>
 - <a href="https://dev.to/williamnogueira/my-journey-as-a-beginner-web-developer-4e1k" target="_blank">My Journey as a Beginner Web Developer</a>
 
