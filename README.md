@@ -4,7 +4,7 @@ Desenvolvedor full-stack com foco em Angular e Spring. Estudante de Análise e D
 
 ### Sobre mim 🚀
 
-- 👩‍💻 lider de equipe da <a href="https://github.com/Bibliothek-Blumenau" target="_blank">Bibliothek</a>
+- 👩‍💻 estagiário na <a href="https://www.senior.com.br/" target="_blank">Senior Sistemas</a>
 - 💡  apaixonado por inovação e tecnologia
 - 🌟 escritor nas horas vagas
 - 💼 experiência com mercado financeiro
