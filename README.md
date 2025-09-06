@@ -2,7 +2,7 @@
 
 ### I'm William Nogueira 👋
 
-Full-Stack Software Engineer with 4+ years of experience building scalable, enterprise-grade web applications using Spring Boot, and Angular. Proven ability to lead projects, modernize legacy systems into microservice architectures, and drive technical excellence through SOLID, DRY and KISS principles. Currently expanding expertise in cloud-native technologies with AWS.
+Full-Stack Software Engineer with 4+ years of experience building scalable, enterprise-grade web applications using Spring Boot and Angular. Proven ability to lead projects, modernize legacy systems into microservice architectures, and drive technical excellence through SOLID, DRY and KISS principles. Currently expanding expertise in cloud-native technologies with AWS.
 
 ### About me 🚀
 
