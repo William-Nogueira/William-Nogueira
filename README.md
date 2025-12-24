@@ -47,12 +47,11 @@ Full-Stack Software Engineer with 4+ years of experience building scalable, ente
 
 
 ### Blog posts 🏷
+- <a href="https://dev.to/williamnogueira/scaling-java-with-write-behind-caching-fnd" target="_blank">Scaling Java with Write-Behind Caching</a>
 - <a href="https://dev.to/williamnogueira/comparing-rdbms-mysql-vs-postgresql-5515" target="_blank">Comparing Database Management Systems: MySQL vs PostgreSQL</a>
 - <a href="https://dev.to/williamnogueira/the-problem-of-bloat-in-web-development-do-we-really-need-front-end-frameworks-14ma" target="_blank">The Problem of Bloat in Web Development: Do We Really Need Front-End Frameworks?</a>
-- <a href="https://dev.to/williamnogueira/my-journey-as-a-beginner-web-developer-4e1k" target="_blank">My Journey as a Beginner Web Developer</a>
 
 <br>
 
 ### Github stats 📈
-![GitHub Streak](https://streak-stats.demolab.com/?user=William-Nogueira&locale=en_US&theme=github-dark-blue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=William-Nogueira&layout=compact&theme=github_dark)
