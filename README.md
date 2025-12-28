@@ -54,4 +54,4 @@ Full-Stack Software Engineer with 4+ years of experience building scalable, ente
 <br>
 
 ### Github stats 📈
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=William-Nogueira&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=William-Nogueira&layout=compact&theme=github_dark)
