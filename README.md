@@ -47,6 +47,7 @@ Full-Stack Software Engineer with 4+ years of experience building scalable, ente
 
 
 ### Blog posts 🏷
+- <a href="https://dev.to/williamnogueira/distributed-transactions-in-java-why-i-skipped-the-outbox-pattern-1n52" target="_blank">Distributed Transactions in Java: Why I Skipped the Outbox Pattern</a>
 - <a href="https://dev.to/williamnogueira/scaling-java-with-write-behind-caching-fnd" target="_blank">Scaling Java with Write-Behind Caching</a>
 - <a href="https://dev.to/williamnogueira/comparing-rdbms-mysql-vs-postgresql-5515" target="_blank">Comparing Database Management Systems: MySQL vs PostgreSQL</a>
 - <a href="https://dev.to/williamnogueira/the-problem-of-bloat-in-web-development-do-we-really-need-front-end-frameworks-14ma" target="_blank">The Problem of Bloat in Web Development: Do We Really Need Front-End Frameworks?</a>
